@@ -30,6 +30,8 @@ release.
 
 - Add `code.lineno` source code attribute
   ([#3029](https://github.com/open-telemetry/opentelemetry-specification/pull/3029))
+- Define attributes collected for `cosmsosdb` by Cosmsosdb SDK
+  ([#3097](https://github.com/open-telemetry/opentelemetry-specification/pull/3097))
 
 ### Compatibility
 
